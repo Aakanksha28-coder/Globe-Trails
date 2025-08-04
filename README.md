@@ -12,20 +12,6 @@ Tours and Travel Booking Website build using MERN stack.
 
 
 
-
-
-![Screenshot_4-8-2025_195821_localhost](https://github.com/user-attachments/assets/569de128-07cf-401a-a7d2-ee874fd0c097)
-
-
-
-
-
-
-
-![Screenshot_4-8-2025_195842_localhost](https://github.com/user-attachments/assets/0ebb82ff-995c-49f0-a8ab-92a4a93b70f8)
-
-
-
 ## 🚀 Features
 - ✈️ Explore a wide range of tour packages
 - 🗓️ Book tours directly from the site
